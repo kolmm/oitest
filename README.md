@@ -1,4 +1,4 @@
-# oitest2
+# oitest
 
 > A Vue.js project
 
